@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sedgwick+Ave&display=swap');
+
+body{
+   box-sizing:border-box;
+     margin:0;
+     padding:0;
+     background-color: #E5E5E5;
+     font-family: 'Source Sans Pro', sans-serif;
+     font-size: 16px;
+     color: #3F3F3F;
+     line-height: 20px;
+}
+button:disabled{
+     background: #EEEEEE;
+border-radius: 10px;
+     font-size: 12px;
+     color: #B4B4B4;
+}
+*:focus {
+  outline: none;
+}
